@@ -68,14 +68,11 @@ An AI-powered academic assistant exploring **Retrieval-Augmented Generation (RAG
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Activity
 
-![Elanur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=numericalmind\&show_icons=true\&theme=tokyonight\&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=numericalmind\&layout=compact\&theme=tokyonight\&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=numericalmind\&theme=tokyonight\&hide_border=true)
-
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=numericalmind&theme=tokyonight&hide_border=true" />
+</p>
 ---
 
 ## 🟩 Contribution Activity
