@@ -86,16 +86,20 @@ An AI-powered academic assistant exploring **Retrieval-Augmented Generation (RAG
 
 ## 🎯 Current Focus
 
+```python
 class Elanur:
     education = ["Mathematics", "Computer Engineering"]
-    
+
     interests = [
         "Scientific Computing",
         "AI for Science",
         "Mathematical Modeling"
     ]
 
-    currently_learning = ["Machine Learning", "MATLAB"]
+    currently_learning = [
+        "Machine Learning",
+        "MATLAB"
+    ]
 
     goal = "Turning mathematical ideas into computational solutions."
 
