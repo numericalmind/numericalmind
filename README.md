@@ -102,6 +102,7 @@ class Elanur:
     ]
 
     goal = "Turning mathematical ideas into computational solutions."
+```
 
 ---
 
@@ -110,7 +111,6 @@ class Elanur:
 I'm always happy to connect with people interested in **mathematics, AI, scientific computing, and interdisciplinary research**.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Elanur%20Erboğa-blue?logo=linkedin)](https://www.linkedin.com/in/elanur-erboğa-252231294)
-
 ---
 
 ### 🧮 `Think mathematically. Build computationally.`
