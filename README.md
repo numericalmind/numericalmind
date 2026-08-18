@@ -73,6 +73,7 @@ An AI-powered academic assistant exploring **Retrieval-Augmented Generation (RAG
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=numericalmind&theme=tokyonight&hide_border=true" />
 </p>
+
 ---
 
 ## 🟩 Contribution Activity
