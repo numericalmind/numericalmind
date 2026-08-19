@@ -68,12 +68,6 @@ An AI-powered academic assistant exploring **Retrieval-Augmented Generation (RAG
 
 ---
 
-## 📊 GitHub Activity
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=numericalmind&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
----
-
 ## 🟩 Contribution Activity
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=numericalmind\&theme=tokyo-night\&hide_border=true)
